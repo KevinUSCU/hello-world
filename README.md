@@ -7,3 +7,4 @@ Adding a line locally to try and sync with GitHub.
 Test #2 to push to GitHub
 Test to push back to VS Code
 Visual Studio Git
+Visual Studio Git without Git installed
