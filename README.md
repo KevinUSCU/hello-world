@@ -9,3 +9,4 @@ Test to push back to VS Code
 Visual Studio Git
 Visual Studio Git without Git installed
 Atom!!!
+VS Code with Git
